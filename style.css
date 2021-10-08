@@ -15,8 +15,8 @@ body {
 }
 
 h1 {
-  font-size: 40px;
-  font-weight: 700;
+  font-size: 60px;
+  font-weight: 800;
 }
 
 p {
@@ -26,7 +26,7 @@ p {
 }
 
 a {
-  background: rgba(230,230,255);
+  color: rgba(230,210,255);
   font-weight: 400;
 }
 
