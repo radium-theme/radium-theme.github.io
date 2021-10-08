@@ -16,7 +16,7 @@ body {
 
 h1 {
   font-size: 60px;
-  font-weight: 800;
+  font-weight: 900;
 }
 
 p {
@@ -26,11 +26,12 @@ p {
 }
 
 a {
-  color: rgba(230,210,255);
+  color: rgba(30,70,140);
   font-weight: 400;
 }
 
 a:hover {
   text-decoration: none;
   opacity: 0.6;
+  font-weight: 600;
 }
