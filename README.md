@@ -1,2 +1,2 @@
 # radium-theme.github.io
-Website
+Official website for Radium Theme 
