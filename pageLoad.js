@@ -6,12 +6,11 @@ window.scrollTo(0, 0);
 let arr = [
     'title',
     'subTitle',
+    'links',
     'toLoad',
-    'github',
-    'vscode',
 ]
 for (let i = 0; i < arr.length; i++) {
     setTimeout(function () {
         document.getElementById(arr[i]).classList.remove('notLoaded')
-    }, i * 10)
+    }, i * 1000)
 }
