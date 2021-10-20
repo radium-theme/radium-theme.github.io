@@ -9,7 +9,7 @@ body {
   flex-direction: column;
   background: #05000e;
   align-items: center;
-  overflow-y:hidden;
+  overflow-y:scroll;
   justify-content: center;
 }
 
